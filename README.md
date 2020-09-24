@@ -5,4 +5,4 @@ Fazer um código em Basic C64 que printe um tabuleiro de Xadrez.
 [WebMSX](https://webmsx.org/)
 * Imagem:
 
-![](/Documents/Program.oriented/basic/Basic_Landerman/screenshot.png)
+![](screenshot.png)
